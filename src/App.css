@@ -1,0 +1,12 @@
+img {
+  width: 300px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.fellow-area {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
